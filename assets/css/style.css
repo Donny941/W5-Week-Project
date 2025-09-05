@@ -73,11 +73,11 @@ nav button {
   background-color: #ffc017;
   width: 100%;
   border-bottom: 1px solid black;
+  position: relative;
 }
 .heroCont {
   display: flex;
   justify-content: space-between;
-  position: relative;
   padding-top: 4rem;
 }
 .hero svg {
