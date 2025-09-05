@@ -35,6 +35,6 @@ setInterval(() => {
     randomM.style.opacity = "0";
   }
   setTimeout(() => {
-    randomM.style.opacity = "0";
+    randomM.style.opacity = "1";
   }, 100);
 }, 300);
